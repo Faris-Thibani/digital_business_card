@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.1d9676fc.css","mappings":"AAAA,EACI,QAAS,CACT,SAEJ,CACA,OAGI,kBAAmB,CAFnB,YAAY,CACZ,qBAEJ","sources":["css/styles.css"],"sourcesContent":["*{\r\n    margin: 0;\r\n    padding: 0;\r\n\r\n}\r\nheader{\r\n    display:flex;\r\n    flex-direction: column;\r\n    align-items: center;\r\n}\r\n"],"names":[],"sourceRoot":""}
